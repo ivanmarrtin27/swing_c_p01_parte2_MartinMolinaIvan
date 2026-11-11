@@ -1,0 +1,11 @@
+Iván Martín Molina
+
+Parte 2 
+Formulario de la práctica 03 adaptado a GridBagLayout
+
+- Layout: GridBagLayout
+- La ventana arranca maximizada y conserva su tamaño mínimo
+- Validación al perder el foco y al pulsar Enviar
+- Teléfono con JFormattedTextField y MaskFormatter
+- Botón Mostrar/Ocultar contraseña con iconos en src/recursos
+- Las imágenes van como recursos internos

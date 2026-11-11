@@ -1,0 +1,13 @@
+# Eclipse
+bin/
+*.class
+.metadata
+.recommenders
+*.tmp
+*.bak
+*~
+
+# IDEs ajenos
+.cursor/
+.vscode/
+*.code-workspace
